@@ -1,0 +1,12 @@
+name: BDNLib
+description: ${project.description}
+website: ${project.url}
+
+author: bendevnull
+version: ${project.version}
+
+main: xyz.bendevnull.bdnlib.MainClass
+
+commands:
+  bdnlib:
+    description: The info command for BDNLib.

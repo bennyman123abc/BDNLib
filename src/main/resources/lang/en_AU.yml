@@ -1,0 +1,6 @@
+# Plugin
+localVerboseMessage: Oi! Verbosity for the actions of this library has been enabled. This is mostly for debugging purposes.
+# Commands
+notPlayerError: This command must be used by a player.
+noPermissionsError: Oi! You do not have permission to use that command.
+notOpError: This command must be used by a server operator.
